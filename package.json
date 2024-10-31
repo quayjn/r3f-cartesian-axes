@@ -1,0 +1,14 @@
+{
+  "name": "r3f-cartesian-axes",
+  "version": "1.0.0",
+  "main": "src/R3FCartesianAxes.jsx",
+  "type": "module",
+  "author": "quayjn AKA Rudy Ruidoso AKA Brian Katz",
+  "keywords": ["react", "cartesian", "fiber", "r3f", "three", "axes", "3D axes", "coordinates", "3D Coordinates", "drei"],
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  }
+}
