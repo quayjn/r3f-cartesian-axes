@@ -34,7 +34,7 @@ import CartesianAxes from 'components/RF3CoordinateAxes'
 | `ticklength`     | `number`    | `15`          | Length of the ticks.                                             |
 | `includeLabels`  | `boolean`   | `true`        | Whether to include text for the numeric coordinate of each tick. |
 
-## Future
+## Future Features
 <ul>
 <li> Include a toggle to hide the controls.</li>
 <li> Include [leva's user controls](https://github.com/pmndrs/leva) or something similar as a default inclusion in the install</li>
