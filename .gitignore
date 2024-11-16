@@ -7,3 +7,7 @@ demo/.DS_Store
 
 # log files
 *.log
+
+# other
+vite.config.js
+zz-package.json

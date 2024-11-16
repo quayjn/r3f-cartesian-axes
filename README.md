@@ -13,7 +13,7 @@ to see it in a working React Three Fiber app, working nicely with [leva's user c
 
 ## Basic usage
 ```jsx
-import CartesianAxes from 'components/RF3CoordinateAxes'
+import CartesianAxes from 'components/R3FCoordinateAxes'
 
 <Canvas>
   <CartesianAxes />
