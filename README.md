@@ -9,7 +9,7 @@ No special installation instructions; place the component (one file) into your d
 npm install
 ```
 to update the dependencies if needed. The only real dependency besides the obvious is 
-[drei]([https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/drei).
+[drei](https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/drei).
 
 Download the [sample project](https://github.com/quayjn/r3f-cartesian-axes/tree/main/demo) 
 to see it in a working React Three Fiber app, working nicely with [leva's user controls](https://github.com/pmndrs/leva).
