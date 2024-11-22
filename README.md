@@ -3,6 +3,8 @@ This is a customizable 3D Cartesian Axis coordinate system for
 
 Watch the [intro video!](https://youtu.be/B3nWiw0P72Q?si=KtznylJ-uXBlYEug)
 
+<img src="docs/assets/img/r3f-axes-ss-sph.png" alt="Screenshot of the component" width="400" />
+
 ## Installation
 No special installation instructions; place the component (one file) into your directory structure (ex. the 'components' directory), import, and it should be ready to go. ou can use
 ```bash
