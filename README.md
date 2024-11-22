@@ -51,23 +51,19 @@ const axesConfig = {
 | `includeLabels`  | `boolean`   | `true`        | Whether to include text for the numeric coordinate of each tick. |
 
 ## Some notes
-<ul>
-  <li> Don't set the 'depth' value too high. It could crash things.</li>
-  <li> Set "tickspacing" to "0" to remove ticks. Or set "ticklength" to 0.</li>
-  <li> You may see some buggy behavior if you use transparent meshes.</li>
+* Avoid setting the 'depth' value too high. It could crash things.
+* Set "tickspacing" to "0" to remove ticks. Or set "ticklength" to 0.
+* You may see some buggy behavior if you use transparent meshes.
 </ul>
 
 ## Future Features
-<ul>
-<li> Include [leva's user controls](https://github.com/pmndrs/leva) or something similar as a default inclusion in the install</li>
-<li> Allow for new instances of the axes to be created at any point in 3D space</li>
-<li> Include a toggle to hide the controls. Altho, you can now just toggle off each axis.</li>
-</ul>
+* Include [leva user controls](https://github.com/pmndrs/leva) or something similar as a default inclusion in the install
+* Allow for new instances of the axes to be created at any point in 3D space
+* Include a toggle to hide the controls. Altho, you can now just toggle off each axis.
 
 ## Links
-<ul> 
-  <li>[intro video!](https://youtu.be/B3nWiw0P72Q?si=KtznylJ-uXBlYEug)</li>
-  <li>[Webpage](https://quayjn.github.io/r3f-cartesian-axes/)</li>
-  <li>[CodeSandbox](https://codesandbox.io/p/devbox/amazing-mcclintock-pflcjm)</li>
-  <li>[Demo](https://pflcjm-5173.csb.app/)</li>
+* Intro video: [https://youtu.be/B3nWiw0P72Q?si=KtznylJ-uXBlYEug](https://youtu.be/B3nWiw0P72Q?si=KtznylJ-uXBlYEug)
+* Webpage: [https://quayjn.github.io/r3f-cartesian-axes/](https://quayjn.github.io/r3f-cartesian-axes/)
+* CodeSandbox: [https://codesandbox.io/p/devbox/amazing-mcclintock-pflcjm](https://codesandbox.io/p/devbox/amazing-mcclintock-pflcjm)
+* Demo: [https://pflcjm-5173.csb.app/](https://pflcjm-5173.csb.app/)
   
