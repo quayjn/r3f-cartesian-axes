@@ -1,0 +1,24 @@
+.btn-primary {
+  --bs-btn-bg: #000997;
+}
+
+
+.content-bgc-row-odd {
+  background-color: beige;
+}
+.content-bgc-row-even {
+  background-color: darkgray;
+}
+
+footer svg, footer a {
+  color: white;
+}
+
+header.masthead {
+  padding-top: calc(1rem + 6px);
+}
+@media (min-width: 992px) {
+  header.masthead {
+    padding-top: calc(1rem + 6px);
+  }
+}
