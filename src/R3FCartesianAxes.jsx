@@ -1,7 +1,7 @@
 /**
  * Component Name: R3F Cartesian Axes
  * Description: Provides a customizable 3D set of Cartesian Axes for use with React Three Fiber.
- * Author: Quayjn aka Rudy Ruidoso aka Brian Katz
+ * Author: Quayjn aka Rudy Ruidoso
  * Version: 1.0.0
  * License: MIT (or any other applicable license)
  * Last Modified: 2024-10-29
