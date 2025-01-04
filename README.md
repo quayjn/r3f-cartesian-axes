@@ -1,7 +1,7 @@
 This is a customizable 3D Cartesian Axis coordinate system for 
 [@react-three/fiber](https://github.com/pmndrs/react-three-fiber).
 
-Watch the [intro video!](https://youtu.be/B3nWiw0P72Q?si=KtznylJ-uXBlYEug)
+Watch the [intro video!](https://youtu.be/eSGVRmM547o)
 
 <img src="docs/assets/img/r3f-axes-ss-sph.png" alt="Screenshot of the component" width="400" />
 
